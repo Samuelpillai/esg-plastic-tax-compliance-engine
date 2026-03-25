@@ -78,7 +78,7 @@ CSV Data → Snowflake (Bronze → Silver → Gold) → Power BI Dashboard
 
 ## ESG Analytics Dashboard
 
-![Dashboard](docs/ESG_POC_Analytics_dashboard-PowerBI.jpeg.jpeg)
+![Dashboard](Docs/ESG_POC_Analytics_dashboard-PowerBI.jpeg.jpeg)
 
 - This dashboard is directly connected to the **Gold layer in Snowflake**  
 - Any new data added reflects automatically  
