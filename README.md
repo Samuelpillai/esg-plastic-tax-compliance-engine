@@ -212,6 +212,6 @@ Step 3: Connect Power BI to Gold layer
 
 ## Author
 
-**Samuel Sathiyamoorthy**
-MSc Cloud Computing – Newcastle University
-ssamuelpillai@gmail.com
+**Samuel Sathiyamoorthy**  
+MSc Cloud Computing – Newcastle University  
+📧 [samuelpillai@gmail.com]
