@@ -192,7 +192,7 @@ Step 3: Connect Power BI to Gold layer
 ✅ No schema changes
 ✅ No reprocessing logic needed
 
-⸻
+---
 
 ## Key Learnings
 	•	SQL-based transformations scale better than Python pipelines
