@@ -188,9 +188,9 @@ Step 3: Connect Power BI to Gold layer
 	2.	Load into Snowflake
 	3.	Refresh Power BI
 
-✅ No pipeline changes
-✅ No schema changes
-✅ No reprocessing logic needed
+- ✅ No pipeline changes
+- ✅ No schema changes
+- ✅ No reprocessing logic needed
 
 ---
 
